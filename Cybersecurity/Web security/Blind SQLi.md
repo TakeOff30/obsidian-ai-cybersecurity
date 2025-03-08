@@ -1,0 +1,3 @@
+Blind SQL injection is a type of [[SQL injection]] where the attacker cannot directly see the output of the injected query. Instead, they must infer information about the database through the application's behavior, typically by observing changes in the application's response or timing. 
+
+For example, if an application displays an error message when an injected query causes a syntax error, but otherwise behaves normally, the attacker can use this to confirm the presence of the vulnerability.
