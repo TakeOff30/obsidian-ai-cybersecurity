@@ -39,6 +39,8 @@ different security goals are achieved through different approaches like:
 9. **FUTURE SECRECY** : self-healing after compromise
 ---
 # Cryptographic Primitives
+*Cryptography is a fundamental building block for cybersecurity*
+
 1. ***Encryption / decryption*** : AES, RSA, ECC, . . .
 2. ***Key exchange / agreemen***t : Diffie–Hellman, . . . 
 3. ***Message authentication code*** : HMAC, Poly1305, . . . 
@@ -48,7 +50,7 @@ different security goals are achieved through different approaches like:
 ---
 # course outline:
 Confidentiality 
-1. Historical cipher  
+1. [[Historical Cipher]]
 2. modern cipher 
 3. real-world application 
 Integrity 
