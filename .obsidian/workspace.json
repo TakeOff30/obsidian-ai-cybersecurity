@@ -67,14 +67,17 @@
             "id": "c8fa8915a553bf33",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "introduction to Cybersecurity/Confidentiality/CONFIDENTIALITY.md",
-                "mode": "source",
-                "source": false
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": 12.818042508344623,
+                  "y": 54.6493093112519,
+                  "zoom": -0.7104944250318738
+                }
               },
-              "icon": "lucide-file",
-              "title": "CONFIDENTIALITY"
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled"
             }
           },
           {
@@ -181,16 +184,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "introduction to Cybersecurity/Confidentiality/Historical Cipher/Historical Cipher.md",
+                "file": "Cybersecurity/Software Security/Stack.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Historical Cipher"
+              "title": "Stack"
+            }
+          },
+          {
+            "id": "452f1c73ae9041ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AI/Recommender systems.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Recommender systems"
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -247,7 +264,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
     "id": "2ccc7ba4c4ce3d60",
@@ -263,7 +280,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "introduction to Cybersecurity/Confidentiality/Historical Cipher/Historical Cipher.md",
+                "file": "AI/Recommender systems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -273,7 +290,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Historical Cipher"
+              "title": "Backlinks for Recommender systems"
             }
           },
           {
@@ -282,12 +299,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "introduction to Cybersecurity/Confidentiality/Historical Cipher/Historical Cipher.md",
+                "file": "Cybersecurity/Ethics/computer crimes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Historical Cipher"
+              "title": "Outgoing links from computer crimes"
             }
           },
           {
@@ -297,7 +314,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": false,
+                "useHierarchy": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
@@ -320,8 +337,7 @@
               "title": "Outline of computer crimes"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -338,48 +354,48 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cb5cfc195323c7ad",
+  "active": "452f1c73ae9041ef",
   "lastOpenFiles": [
+    "Cybersecurity/Web security/Server-Side Request Forgery.md",
+    "Cybersecurity/Web security/General notes.md",
+    "Cybersecurity/Web security/Cookies.md",
+    "Cybersecurity/Web security/Code Injection.md",
+    "Cybersecurity/Software Security/GDB.md",
+    "Cybersecurity/Cryptography/Vigenère Cipher.md",
+    "Cybersecurity/Cryptography/Steganography.md",
+    "Cybersecurity/Cryptography/Perfect Secrecy.md",
+    "Cybersecurity/Cryptography/One-Time Pad.md",
+    "Cybersecurity/Cryptography/Kerchoff's principle.md",
+    "Cybersecurity/Cryptography/DES.md",
+    "Cybersecurity/Cryptography/Cryptographic Attack Types.md",
+    "Cybersecurity/Cryptography/Congruence Modulo N.md",
+    "Cybersecurity/Cryptography/Caesar Cipher.md",
+    "introduction to Cybersecurity/Integrity/INTEGRITY.md",
+    "introduction to Cybersecurity/Integrity",
+    "introduction to Cybersecurity/Confidentiality/Historical Cipher/Historical Cipher.md",
     "introduction to Cybersecurity/Confidentiality/Historical Cipher/Exhaustive Search.md",
     "introduction to Cybersecurity/Confidentiality/Historical Cipher/Caeser Cipher.md",
-    "Shift Cipher.md",
-    "Pasted image 20250311183705.png",
-    "introduction to Cybersecurity/Confidentiality/Historical Cipher/Historical Cipher.md",
-    "Pasted image 20250311183050.png",
-    "exhaustive brute-force attacks.md",
+    "introduction to Cybersecurity/Confidentiality/CONFIDENTIALITY.md",
     "introduction to Cybersecurity/Confidentiality/Historical Cipher",
     "introduction to Cybersecurity/CYBERSECURITY.md",
-    "Pasted image 20250311173705.png",
-    "introduction to Cybersecurity/Confidentiality/CONFIDENTIALITY.md",
-    "Pasted image 20250311163918.png",
-    "CYBERSECURITY.pdf",
-    "introduction to Cybersecurity/Integrity/INTEGRITY.md",
-    "introduction to Cybersecurity/Access control",
-    "introduction to Cybersecurity/Computer Security",
-    "introduction to Cybersecurity/Integrity",
     "introduction to Cybersecurity/Confidentiality",
-    "Untitled",
-    "Pasted image 20250311163113.png",
-    "confidentiality.md",
-    "Cybersecurity/Software Security/Stack.md",
-    "Untitled.md",
     "introduction to Cybersecurity",
-    "ISO OSI stack.md",
-    "Cybersecurity/Cryptography/Cryptography.md",
-    "Cybersecurity/Cybersecurity.md",
-    "Cybersecurity/Cryptography/Meet-in-the-Middle attack.md",
-    "Cybersecurity/Cryptography/Equivalence Classes Modulo N.md",
-    "Cybersecurity/Cryptography/General notes.md",
-    "AI/Recommender systems.md",
-    "Cybersecurity/Cryptography/Timing attack.md",
+    "Shift Cipher.md",
+    "Pasted image 20250311183705.png",
+    "Pasted image 20250311183050.png",
+    "Pasted image 20250311173705.png",
+    "Pasted image 20250311163918.png",
     "Congruence Modulo N.md",
-    "Cybersecurity/Cryptography/Modular arithmetic.md",
-    "Cybersecurity/Cryptography",
-    "Cybersecurity/Software Security/general.md",
-    "AI",
-    "Cybersecurity/Web security/HTTP request structure.md",
+    "Cybersecurity/Web security/SQL injection.md",
+    "Cybersecurity/Web security/UNION based SQLi.md",
     "Cybersecurity/Web security/Time-based SQLi.md",
-    "Cybersecurity/Web security/Blind SQLi.md",
-    "Untitled.canvas"
+    "Cybersecurity/Web security/HTTP.md",
+    "Cybersecurity/Cryptography",
+    "AI",
+    "Cybersecurity/Web security",
+    "Cybersecurity/Software Security",
+    "Untitled.canvas",
+    "Cybersecurity/Ethics",
+    "Untitled 1"
   ]
 }

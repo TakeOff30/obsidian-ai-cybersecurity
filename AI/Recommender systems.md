@@ -30,3 +30,8 @@ General RecSys
 	
 Shadow profile: a much more complex profile for each user can be built without requesting data to a user
 
+classical recommeder systems
+
+neighborhood based collaborative filtering
+
+

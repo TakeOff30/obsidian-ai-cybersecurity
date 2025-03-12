@@ -1,4 +1,5 @@
 {
+<<<<<<< Updated upstream
   "alwaysUpdateLinks": true,
   "pdfExportSettings": {
     "pageSize": "A4",
@@ -6,4 +7,7 @@
     "margin": "2",
     "downscalePercent": 100
   }
+=======
+  "alwaysUpdateLinks": true
+>>>>>>> Stashed changes
 }

@@ -26,7 +26,7 @@ The **Meet-in-the-Middle (MITM) Attack** is a cryptographic attack technique use
             
 ## Complexity Reduction
 
-- A naive brute-force attack on **Double DES** requires operations (since each DES key is 56 bits).
+- A naive brute-force attack on **Double [[DES]]** requires operations (since each DES key is 56 bits).
 - MITM reduces this to encryptions and decryptions, requiring only space.
 - This makes double encryption **no stronger** than single encryption against a MITM attack.
     
