@@ -10,28 +10,15 @@ Recommender systems can either be personalized, non personalized (new customers,
 
 Filter bubble: when developing a recsys the things you like will be pushed more by the algorithm. Can make people more biased
 
-the best possible algorithm is not the optimal one
+Metrics in RecSys are important: while **ACCURACY** (correctly predicting ratings) is a fundamental metric, it is **not the only factor** in recommendation quality, for example we care also for:
 
-Big data is the most valuable asset in this context
+1.       **DIVERSITY** – ensuring recommendations **span different genres, categories, or interests**.
 
-initially we let people interact and observe behaviours
+2.       **SERENDIPITY** – Introducing **unexpected but relevant** recommendations to enhance user discovery.
 
-ethical concerns: every policy implemented in the recsys can have effects and bad stuff on others
+3.       **NOVELTY** – Prioritizing **new content** over repeatedly recommending the same items.
 
-For the user we should help the user find resources it likes based on its interests, easy to use, no query, no explicit feedback
+4.       **EXPLAINABILITY** – Providing users with reasons for recommendations (e.g., "Because you watched X").
 
-dual time
-
-scalability
-
-General RecSys
-	user item interaction matrix, it records any kind of data that can correlate a user with a specific item. Users and items have specific features which can be fitted into a model and return recommendations
-	
-	
-Shadow profile: a much more complex profile for each user can be built without requesting data to a user
-
-classical recommeder systems
-
-neighborhood based collaborative filtering
-
+Without considering these additional metrics, recommendation systems can become **too predictable**, leading to user fatigue.
 

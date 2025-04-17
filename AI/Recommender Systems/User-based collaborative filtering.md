@@ -20,6 +20,7 @@ The **numerator** computes the **sum of products** of the centered ratings. This
 The **denominator** ensures that:
 - Differences in absolute rating magnitudes do not dominate similarity calculations.
 - The final score remains within a bounded range (-1 to 1).
+Note: the ratings are the ones stored in the [[Rating matrix]].
 
 In production environments the user ratings are being updated often so we need to adopt a structured approach to understand when to update similarity.
 
