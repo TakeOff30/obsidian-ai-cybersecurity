@@ -1,0 +1,1 @@
+Given a formula, establish if there exists at least one interpretation that makes the formula true. It is an NP-complete problem: we need to try every possible combination of values until we find a true formula.

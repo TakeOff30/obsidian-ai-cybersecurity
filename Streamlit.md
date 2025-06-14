@@ -1,0 +1,2 @@
+
+Clickable images - Components
